@@ -31,7 +31,8 @@ import javax.swing.JTextArea;
  * Realiza el siguiente tutorial "Adding a File Chooser to a Java Application"
  * 
  * @author Guillermo Boquizo Sánchez
- * @version 1.0
+ * @author Javier Ponferrada López
+ * @version 2.0
  *
  */
 public class FileChooserDemo extends JFrame implements ActionListener {
